@@ -1,5 +1,8 @@
 # RMDS_Responsible_Investment
-The project for the RMDS data competition, using ML to explore how to make responsible investment decisions. 
+The project for the RMDS data competition, using ML to explore how to make responsible investment decisions.We used 
+
+Competition Home Page: 
+https://grmds.org/braceImpact#resources
 
 How to Run the Code
 1. Please refer to the requirement.txt and run all the install commands from top to
